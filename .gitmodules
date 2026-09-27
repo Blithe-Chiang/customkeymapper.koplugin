@@ -1,0 +1,3 @@
+[submodule "librime_koreader"]
+	path = librime_koreader
+	url = https://github.com/Blithe-Chiang/librime_koreader.git

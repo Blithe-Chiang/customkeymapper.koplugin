@@ -1,0 +1,59 @@
+# Simplified Chinese for customkeymapper.
+msgid ""
+msgstr ""
+"Project-Id-Version: customkeymapper 1.0\n"
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "mapper.title"
+msgstr "自定义按键映射"
+
+msgid "mapper.device"
+msgstr "设备：%1"
+
+msgid "mapper.map_button"
+msgstr "映射一个按键…"
+
+msgid "mapper.choose_key"
+msgstr "选择一个按键…"
+
+msgid "mapper.none_mapped"
+msgstr "(尚未映射 — 请用「映射一个按键…」)"
+
+msgid "mapper.device_set"
+msgstr "设备已设为 %1。"
+
+msgid "mapper.change_action"
+msgstr "更改动作…"
+
+msgid "mapper.delete_mapping"
+msgstr "删除映射"
+
+msgid "mapper.mapping_removed"
+msgstr "已删除映射。"
+
+msgid "mapper.press_hint"
+msgstr "请在设备上按一个按键…"
+
+msgid "mapper.mapped"
+msgstr "已将 %1 映射到 %2。"
+
+msgid "mapper.none"
+msgstr "(未绑定)"
+
+msgid "action.paging"
+msgstr "翻页"
+
+msgid "action.display"
+msgstr "显示"
+
+msgid "action.more"
+msgstr "更多动作"
+
+msgid "action.page_forward"
+msgstr "下一页"
+
+msgid "action.page_backward"
+msgstr "上一页"

@@ -1,0 +1,6 @@
+CKM_1.0 {
+    global:
+        ckm_*;
+    local:
+        *;
+};

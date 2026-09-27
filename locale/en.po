@@ -1,0 +1,59 @@
+# English source for customkeymapper. This is the fallback language.
+msgid ""
+msgstr ""
+"Project-Id-Version: customkeymapper 1.0\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "mapper.title"
+msgstr "Custom key mapper"
+
+msgid "mapper.device"
+msgstr "Device: %1"
+
+msgid "mapper.map_button"
+msgstr "Map a button…"
+
+msgid "mapper.choose_key"
+msgstr "Choose a key…"
+
+msgid "mapper.none_mapped"
+msgstr "(nothing mapped yet — use 'Map a button…')"
+
+msgid "mapper.device_set"
+msgstr "Device set to %1."
+
+msgid "mapper.change_action"
+msgstr "Change action…"
+
+msgid "mapper.delete_mapping"
+msgstr "Delete mapping"
+
+msgid "mapper.mapping_removed"
+msgstr "Mapping removed."
+
+msgid "mapper.press_hint"
+msgstr "Press a button on your device…"
+
+msgid "mapper.mapped"
+msgstr "Mapped %1 to %2."
+
+msgid "mapper.none"
+msgstr "(none)"
+
+msgid "action.paging"
+msgstr "Paging"
+
+msgid "action.display"
+msgstr "Display"
+
+msgid "action.more"
+msgstr "More actions"
+
+msgid "action.page_forward"
+msgstr "Turn page forward"
+
+msgid "action.page_backward"
+msgstr "Turn page backward"
